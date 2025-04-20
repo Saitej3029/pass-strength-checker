@@ -27,16 +27,23 @@ A Python script that checks the strength of a password based on several criteria
 2. Run the script:
 
 ```bash
-```
+
 python password_checker.py
+
+
 ```
-
-
- Example Output
+## Example Output
 
 ![Screenshot 2024-06-12 192544](https://github.com/Saitej3029/codtech-task-1/assets/137631962/04c787c3-e91d-4474-b688-c7e2c63fff3c)
 
+## Disclaimer
+
+- Crack time estimates are rough approximations assuming a powerful attacker (~1 billion guesses/second).
+
+- Always use a reputable password manager and enable 2FA wherever possible.
 
 
+ ## License
+ - MIT License
 
 
